@@ -3,11 +3,11 @@
 <h3 align="center">A passionate frontend developer exploring vast technologies</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif"
 
-- 🌱 I’m currently learning **Advanced javascript,Frontened Frameworks like react,next.js-Backend Frameworks like mongoDb,Mysql(MERN STACK),Responsive web Design**
+ 🌱 I’m currently learning **Advanced javascript,Frontened Frameworks like react,next.js-Backend Frameworks like mongoDb,Mysql(MERN STACK),Responsive web Design**
 
-- 👨‍💻Lets collaborate **I'm ready to collaborate with projects related to web development and design**
+ 👨‍💻Lets collaborate **I'm ready to collaborate with projects related to web development and design**
 
-- 📫 How to reach me **svshunmathi@gmail.com**
+ 📫 How to reach me **svshunmathi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
